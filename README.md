@@ -11,7 +11,8 @@
 - 🎓 Soy Ingeniero de Sistemas de la Universidad Central (Colombia).
 - 💻 Me encanta trabajar en proyectos web usando tecnologías como **Node.js**, **React**, **Next.js** y **Tailwind CSS**.
 - ⚙️ Tengo experiencia en **bases de datos SQL y NoSQL**, **automatización**, y **visualización de datos** con herramientas como Power BI.
-- 📍 Actualmente buscando contribuir en equipos donde pueda crecer profesionalmente y aportar con soluciones reales.
+- 🌐 Mi portafolio: [portfolio-dev-plum.vercel.app](https://portfolio-dev-plum.vercel.app/)
+- 📫 Contáctame: **pabloandrestrianam@outlook.com**
 
 ---
 
@@ -57,6 +58,9 @@
   <a href="mailto:pabloandrestrianam@outlook.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
+  <a href="https://portfolio-dev-plum.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
@@ -66,4 +70,3 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Trianaaa&theme=tokyonight&row=1&margin-w=15&margin-h=15" />
 </p>
-
